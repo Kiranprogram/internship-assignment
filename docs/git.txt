@@ -1,1 +1,14 @@
+1. What is Git
+Git is a version control system used to track changes in files and source code.
 
+2. Why Git is useful
+Git is useful because it helps developers save versions of their work, track changes, go back to older versions, and work with others easily.
+
+3. Difference between Git and GitHub
+Git is a tool used on the local computer for version control.
+GitHub is an online platform where Git repositories can be stored and shared.
+
+4. Three git commands learned
+git add
+git commit
+git push

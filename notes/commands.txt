@@ -1,0 +1,23 @@
+Linux Commands Practiced:
+
+1. mkdir - creates a new directory
+2. cd - changes the current directory
+3. pwd - shows the current working directory
+4. ls - lists files and folders
+5. touch - creates a new empty file
+6. cat - writes or displays file content
+7. grep - searches text inside files
+8. find - searches files and folders
+
+Git Commands Practiced:
+
+1. git init - initializes a Git repository
+2. git status - shows current repository status
+3. git add - stages files for commit
+4. git commit - saves changes in Git history
+5. git diff - shows file changes
+6. git checkout - switches branches
+7. git branch - lists branches
+8. git merge - merges branches
+9. git remote - manages remote repository links
+10. git push - uploads commits to GitHub
